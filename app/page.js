@@ -97,7 +97,7 @@ useEffect(() => {
     padding={2}
     borderRadius={2}
     margin={2}>
-      REN's Customer Support
+      RENs Customer Support
       </Typography>    
       <Stack
         direction={'column'}
